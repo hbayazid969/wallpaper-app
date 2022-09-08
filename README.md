@@ -1,4 +1,4 @@
-# gallery_app
+# Wallpaper app using API
 
 A new Flutter project.
 
